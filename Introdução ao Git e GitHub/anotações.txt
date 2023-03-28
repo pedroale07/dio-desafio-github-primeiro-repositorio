@@ -1,0 +1,10 @@
+Link para download do Git: https://git-scm.com/download/win
+
+
+!Antes de fazer o download verifica o sistema operacional de 32 ou 64. Para verificar o seu sistema segue o passo a passo do link abaixo:
+
+https://elo7.zendesk.com/hc/pt-br/articles/203843400-Como-verificar-qual-o-meu-sistema-operacional-e-sua-vers%C3%A3o-
+
+
+
+O Git Bash é um terminal extendido para otimizar o uso do Git.
